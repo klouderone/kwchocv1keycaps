@@ -2,9 +2,9 @@
 
 Feel free to use commercially, as long as attribution is given!
 
-Profile Created by *Kea Workshop/Claude Loomes*
+Profile Created by **Kea Workshop/Claude Loomes**
 
-Legend Keys Created by *Ross Douglas*
+Legend Keys Created by **Ross Douglas**
 
 https://www.keaworkshop.com/choc-v1-3dp-keycaps-project
 
