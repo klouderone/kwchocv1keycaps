@@ -6,6 +6,14 @@ Profile Created by **Kea Workshop/Claude Loomes**
 
 Legend Keys Created by **Ross Douglas**
 
+The KEA profile keycaps are for Choc V1 switches. They feature a deep dish for a comfortable finger feel, and rounded edges for a stylish look. The keycaps have been designed to be 3D printed, featuring a top and bottom chamfer on the backside to remove overhangs, when printing standing up to increase strength, a bonus being that with small layer heights, the layer lines are almost invisible.
+
+These were specifically designed for split boards that have both MX and Choc compatibility, as most of the time split boards that support MX and Choc switches are spaced for MX keycaps (19.05mm x 19.05mm).
+
+The KW Choc V1 keycaps are the solution to this by adopting the 19.05mm x 19.05mm MX spacing, reducing the gap between Choc keys on MX spaced boards.
+
+You can find the open source files on the Kea Workshop GitHub or Printables.
+
 ![eSun Light Blue KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/9c6510f8-34a2-4d66-ae16-1e297f255944)
 
 Pictured Keycaps Printed on Bambu Lab X1C using Textured PEI Plate
@@ -20,13 +28,6 @@ Support Painted only on switch prongs,
 Brim = No,
 Ironing = Yes
 
-The KEA profile keycaps are for Choc V1 switches. They feature a deep dish for a comfortable finger feel, and rounded edges for a stylish look. The keycaps have been designed to be 3D printed, featuring a top and bottom chamfer on the backside to remove overhangs, when printing standing up to increase strength, a bonus being that with small layer heights, the layer lines are almost invisible.
-
-These were specifically designed for split boards that have both MX and Choc compatibility, as most of the time split boards that support MX and Choc switches are spaced for MX keycaps (19.05mm x 19.05mm).
-
-The KW Choc V1 keycaps are the solution to this by adopting the 19.05mm x 19.05mm MX spacing, reducing the gap between Choc keys on MX spaced boards.
-
-You can find the open source files on the Kea Workshop GitHub or Printables.
 
 Keycaps available for purchase here: https://www.keaworkshop.com/product/kw-choc-3dp-keycaps
 
