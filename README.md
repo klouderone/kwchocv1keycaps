@@ -6,6 +6,18 @@ Profile Created by **Kea Workshop/Claude Loomes**
 
 Legend Keys Created by **Ross Douglas**
 
+Pictured Keycaps Printed on Bambu Lab X1C using Textured PEI Plate
+
+Layer Height = .08mm
+3 Walls
+Speed = 20mm/s
+Supports = Yes
+Support Type = Normal
+Support Style = Snug
+Support Painted only on switch prongs
+Brim = No
+Ironing = Yes
+
 https://www.keaworkshop.com/choc-v1-3dp-keycaps-project
 
 
