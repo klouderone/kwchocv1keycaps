@@ -6,7 +6,7 @@ Profile Created by **Kea Workshop/Claude Loomes**
 
 Legend Keys Created by **Ross Douglas**
 
-![eSun Black KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/b22c6a26-8cf0-4088-92b9-4bb383c04df7)
+![eSun Light Blue KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/9c6510f8-34a2-4d66-ae16-1e297f255944)
 
 Pictured Keycaps Printed on Bambu Lab X1C using Textured PEI Plate
 
@@ -33,7 +33,7 @@ Keycaps available for purchase here: https://www.keaworkshop.com/product/kw-choc
 ![KW Choc V1 Keycap 1 1000px ](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/fe14f961-8a48-4431-bf91-d87cf4a46852)
 ![image](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/de070ffa-8e2a-4720-a428-e5b5e95ca5af)
 ![KW Choc V1 Keycap 3 1000px ](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/4e941cb2-457c-480f-855f-f92ca84ea3c6)
-
+![eSun Black KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/b22c6a26-8cf0-4088-92b9-4bb383c04df7)
 
 
 
