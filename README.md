@@ -10,6 +10,25 @@ The KW Choc V1 keycaps are the solution to this by adopting the 19.05mm x 19.05m
 
 You can find the open source files on the Kea Workshop GitHub or Printables.
 
+Pictured Keycaps Printed on Bambu Lab X1C using Textured PEI Plate
+
+Layer Height = .08mm
+
+3 Walls
+
+Speed = 20mm/s
+Supports = Yes
+
+Support Type = Normal
+
+Support Style = Snug
+
+Support Painted only on switch prongs
+
+Brim = No
+
+Ironing = Yes
+
 ![eSun Light Blue KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/9c6510f8-34a2-4d66-ae16-1e297f255944)
 
 Pictured Keycaps Printed on Bambu Lab X1C using Textured PEI Plate
