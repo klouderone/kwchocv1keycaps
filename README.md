@@ -1,10 +1,6 @@
-# Kea Workshop "KEA" Profile Choc V1 3D Printable Keycaps
+## KEA Profile Choc V1 3D Printable Keycaps by Kea Workshop 
 
 Feel free to use commercially, as long as attribution is given!
-
-Profile Created by **Kea Workshop/Claude Loomes**
-
-Legend Keys Created by **Ross Douglas**
 
 The KEA profile keycaps are for Choc V1 switches. They feature a deep dish for a comfortable finger feel, and rounded edges for a stylish look. The keycaps have been designed to be 3D printed, featuring a top and bottom chamfer on the backside to remove overhangs, when printing standing up to increase strength, a bonus being that with small layer heights, the layer lines are almost invisible.
 
@@ -36,5 +32,7 @@ Keycaps available for purchase here: https://www.keaworkshop.com/product/kw-choc
 ![KW Choc V1 Keycap 3 1000px ](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/4e941cb2-457c-480f-855f-f92ca84ea3c6)
 ![eSun Black KEA Keycaps 1000px](https://github.com/klouderone/kwchocv1keycaps/assets/136342173/b22c6a26-8cf0-4088-92b9-4bb383c04df7)
 
+Profile Created by **Kea Workshop/Claude Loomes**
 
+Legend Keys Created by **Ross Douglas**
 
